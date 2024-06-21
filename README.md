@@ -14,6 +14,7 @@
 - [Getting Your Google API Key](#getting-your-google-api-key)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 
 ## Features
@@ -160,6 +161,14 @@ To use Google's Generative AI services, you need to obtain an API key. Here are 
     ```
 
 6. **Submit a pull request**
+
+## Credits
+
+Created by Muhammad Muzzamil Khan
+
+---
+
+Explore and contribute to Audio Analyzer to enhance its functionality. If you have questions or suggestions, please open an issue or contact khanmuhammadmuzzamil500@gmail.com
 
 ## License
 
