@@ -35,7 +35,7 @@
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/nlp-audio-analyzer.git
+    git clone https://github.com/muhammadmuzzamilkhan/nlp-audio-analyzer.git
     cd nlp-audio-analyzer
     ```
 
