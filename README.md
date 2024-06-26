@@ -1,6 +1,6 @@
 # NLP Audio Analyzer
 
-![Audio Analyzer](https://via.placeholder.com/1000x200.png?text=NLP+Audio+Analyzer)
+![NLP Audio Analyzer](https://via.placeholder.com/1000x200.png?text=NLP+Audio+Analyzer)
 
 ## Overview
 
